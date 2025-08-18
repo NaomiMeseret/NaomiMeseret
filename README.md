@@ -43,7 +43,7 @@ Here are some highlights of my work:
 ## 🌐 Find Me Elsewhere
 - 🏆 [LeetCode](https://leetcode.com/u/Naomi_Mu/)  
 - 🏅 [Codeforces](https://codeforces.com/profile/Naomi_Mu)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/naomi-meseret)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/naomi-meseret-858a66221/)  
 
 ---
 
