@@ -41,13 +41,8 @@ Here are some highlights of my work:
 ---
 
 ## 🌐 Find Me Elsewhere
-- 🏆 [LeetCode](https://leetcode.com/u/Naomi_Mu/)  
-- 🏅 [Codeforces](https://codeforces.com/profile/Naomi_Mu)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/naomi-meseret-858a66221/)  
-
----
-
-## ⚡ Fun Fact
-I love **solving challenging problems**, **collaborating with other developers**, and continuously learning new technologies! 😄💡
+- 🏆 [LeetCode](https://leetcode.com/u/Naomi_Mu/)
+- 📧 [Email](mailto:naomimu2121@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/naomi-meseret-858a66221/)
 
 ---
