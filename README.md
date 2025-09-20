@@ -32,7 +32,6 @@ Here are some highlights of my work:
 **Frontend & Mobile:**  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Material Design](https://img.shields.io/badge/-Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
 
 **Backend & Languages:**  
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
