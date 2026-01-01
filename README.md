@@ -10,7 +10,6 @@ I love **solving problems**, **creating user-friendly interfaces**, and learning
 
 ## 🌟 What I'm Working With
 - 🐹 **Go** & **Node.js**  
-- 📱 **Flutter** for cross-platform mobile development
 - 🍃 **MongoDB** & **Database Design**  
 - 🌐 **REST APIs** & **JWT Authentication**  
 - ☁️ **Cloud Services** & **Deployment**
