@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Naomi Meseret 
-### Backend Engineer
+## Backend Engineer
 
 Passionate about building scalable backend systems and high-performance APIs. I focus on clean architecture, efficient design, and continuous growth.
 
