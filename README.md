@@ -1,12 +1,13 @@
-# 👋 Hi, I'm Naomi Meseret 
-## Backend Engineer
+# 👋 Hi, I'm Naomi Meseret
+## Backend Engineer · AI/ML Enthusiast
 
-Passionate about building scalable backend systems and high-performance APIs. I focus on clean architecture, efficient design, and continuous growth.
+Passionate about building scalable backend systems and exploring the intersection of robust engineering with intelligent systems. I focus on clean architecture, high-performance APIs, and continuously pushing into AI/ML to build smarter, more capable applications.
 
 ---
 
 ## 🌟 Tech Stack
 
+### Backend
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=for-the-badge)
@@ -16,9 +17,17 @@ Passionate about building scalable backend systems and high-performance APIs. I 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Focus areas:** REST API Development · JWT-based Auth Systems · Docker & Cloud Deployment · Database Design
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Data & Infrastructure
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Focus areas:** REST API Development · JWT Auth Systems · Clean Architecture · AI/ML Integration · Docker & Cloud Deployment
 
 ---
 
@@ -27,6 +36,7 @@ Passionate about building scalable backend systems and high-performance APIs. I 
 - **ShiftMaster** — Employee management system built with Flutter & Node.js
 - Backend services with Go, Node.js, PHP/Laravel & MongoDB
 - RESTful APIs with authentication, clean architecture & scalable design
+- AI/ML projects exploring model integration into production backend systems
 
 ---
 
