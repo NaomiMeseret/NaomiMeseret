@@ -25,6 +25,8 @@ Passionate about building scalable backend systems and exploring the intersectio
 
 ### Data & Infrastructure
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Focus areas:** REST API Development · JWT Auth Systems · Clean Architecture · AI/ML Integration · Docker & Cloud Deployment
@@ -32,8 +34,6 @@ Passionate about building scalable backend systems and exploring the intersectio
 ---
 
 ## 🚀 Featured Work
-
-- **ShiftMaster** — Employee management system built with Flutter & Node.js
 - Backend services with Go, Node.js, PHP/Laravel & MongoDB
 - RESTful APIs with authentication, clean architecture & scalable design
 - AI/ML projects exploring model integration into production backend systems
