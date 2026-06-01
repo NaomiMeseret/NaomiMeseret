@@ -4,16 +4,12 @@
 
 Building scalable backend systems at the intersection of robust engineering and intelligent applications.
 
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NaomiMeseret&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NaomiMeseret&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="170" src="https://streak-stats.demolab.com/?user=NaomiMeseret&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## 🌟 Tech Stack
 
@@ -32,21 +28,15 @@ Building scalable backend systems at the intersection of robust engineering and 
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker&perline=9" />
 </p>
 
----
-
 ## 🔥 Focus Areas
 
 `REST API Development` · `JWT Auth Systems` · `Clean Architecture` · `AI/ML Integration` · `Docker & Cloud Deployment`
-
----
 
 ## 🚀 Featured Work
 
 - Backend services with Go, Node.js, PHP/Laravel & MongoDB
 - RESTful APIs with authentication, clean architecture & scalable design
 - AI/ML projects exploring model integration into production backend systems
-
----
 
 ## 📬 Connect with Me
 
