@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Naomi Meseret
 
-<p align="center">
-  <b>Backend Engineer · AI/ML Enthusiast</b><br/>
-  Passionate about building scalable backend systems and exploring the intersection of robust engineering with intelligent systems.<br/>
-  I focus on clean architecture, high-performance APIs, and continuously pushing into AI/ML to build smarter, more capable applications.
-</p>
+<h2 align="center">Backend Engineer · AI/ML Enthusiast</h3>
+
+Building scalable backend systems at the intersection of robust engineering and intelligent applications.
 
 ---
 
@@ -50,7 +48,7 @@
 
 ---
 
-## 📬 Connect
+## 📬 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naomi-meseret-858a66221/">
