@@ -7,7 +7,7 @@ Building scalable backend systems at the intersection of robust engineering and 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NaomiMeseret&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats-r61z.vercel.app/?user=NaomiMeseret&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🌟 Tech Stack
